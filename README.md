@@ -48,7 +48,7 @@ Both classes will contain the following methods, though the implementations will
 You will submit 3 files:
 * `myStack.java`, 
 * `myQueue.java`, and
-* `StackQueueTester.java` which will contain at least 5 test cases for each of the new classes. 
+* `tester.java` which will thoroughly test both data structures. 
 
 ## Grading
 **190 points total**
@@ -62,7 +62,7 @@ You will submit 3 files:
   * `enqueue` -- 10 pts.
   * `dequeue` -- 10 pts.
   * `getSize`,`isEmpty`,`isfull` -- 5 pts. each
-* `StackQueueTester.java` -- 10 pts
+* `tester.java` -- 10 pts
 
 ## Due Date 
 You assignment should be submitted on GitHub by **Sunday, 6 December 2020, midnight**. 
