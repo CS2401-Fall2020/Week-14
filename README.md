@@ -66,7 +66,7 @@ You will submit 3 files:
 
 ## Due Date 
 You assignment should be submitted on GitHub by **Sunday, 6 December 2020, midnight**. 
-Lateness: -10 pts. 1 day late. -20 pts. 2 days late, 0 credit after. 
+**__No late assignments will be accepted for this lab__**
 
 ## Reccomended Schedule
 * Monday, 23 November
